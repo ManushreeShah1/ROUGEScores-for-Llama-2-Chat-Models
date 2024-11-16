@@ -1,4 +1,4 @@
-# ROUGEScores-for-Llama-2-Chat-Models & Gemini Modles
+# ROUGEScores-for-Llama-2-Chat-Models & Gemini Models
 Testing Llama and Gemini Language Models based on ROUGE scores for code generation.
 Models were chosen based on - ease of access and lightweight feature.
 
